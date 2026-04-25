@@ -32,9 +32,8 @@ An interactive dashboard was built to explore key metrics like sales, profit, an
 ---
 
 ## 📷 Dashboard Preview
-(Add your dashboard screenshot here)
+<img width="1310" height="730" alt="Screenshot 2026-04-25 204942" src="https://github.com/user-attachments/assets/76d687c0-fa68-4dc8-93de-06f8899bb6c6" />
 
----
 
 ## 💡 Conclusion
 This dashboard helps in understanding overall business performance and supports data-driven decision making by highlighting key trends and patterns.
